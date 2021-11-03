@@ -43,3 +43,5 @@ table medcard, contents(mean prop_oop_total median prop_oop_total  p25 prop_oop_
 table medcard, contents(mean prop_oop_ex_hc median prop_oop_ex_hc  p25 prop_oop_ex_hc  p75 prop_oop_ex_hc  freq )
 
 /////checking if update gets logged
+
+//check again
